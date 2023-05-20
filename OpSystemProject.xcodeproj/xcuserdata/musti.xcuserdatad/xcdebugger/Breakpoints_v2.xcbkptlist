@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "CD1C7EE5-C6F2-44C9-A455-449B855AA763"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0244CB6E-E263-462F-A11B-E16955F8A81E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpSystemProject/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "162"
+            endingLineNumber = "162"
+            landmarkName = "main(argc, argv)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "0244CB6E-E263-462F-A11B-E16955F8A81E - 8ea286d11de35ecb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "OpSystemProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/musti/Desktop/School/I%CC%87s%CC%A7letim%20Sistemleri/OpSystemProject/OpSystemProject/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "628">
+               </Location>
+               <Location
+                  uuid = "0244CB6E-E263-462F-A11B-E16955F8A81E - 8ea286d11de35ecb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "OpSystemProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/musti/Desktop/School/I%CC%87s%CC%A7letim%20Sistemleri/OpSystemProject/OpSystemProject/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "164"
+                  endingLineNumber = "164"
+                  offsetFromSymbolStart = "624">
+               </Location>
+               <Location
+                  uuid = "0244CB6E-E263-462F-A11B-E16955F8A81E - 8ea286d11de35eea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "OpSystemProject"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/musti/Desktop/School/I%CC%87s%CC%A7letim%20Sistemleri/OpSystemProject/OpSystemProject/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "165"
+                  endingLineNumber = "165"
+                  offsetFromSymbolStart = "632">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
